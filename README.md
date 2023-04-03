@@ -1,3 +1,3 @@
 # Disc-Mod
 
-Go to Code download .zip then change the .zip to .mcpack and launch it in minecraft
+Go to https://github.com/Shattered-Snowy-13/Disc-Mod/releases and download the .mcpack, then open file explorer double click it and run it in minecraft
